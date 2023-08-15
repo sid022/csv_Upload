@@ -1,4 +1,7 @@
 # CSV-Upload-File-Nodejs 🚀
+![Screenshot (96)](https://github.com/sid022/csv_Upload/assets/102418478/db67b6fe-170a-476b-af9f-2721486c7b70)
+![Screenshot (95)](https://github.com/sid022/csv_Upload/assets/102418478/e2043be5-e79c-4695-8e47-46defeaa438d)
+
 ## ⭐ Introduction
 CSV Upload File which built using Nodejs, Ejs , CSS , JavaScript.It is responsive across all devices.
 <br/>
